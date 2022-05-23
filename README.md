@@ -1,1 +1,1 @@
-# vue--Recipe-app
+# vue-Recipe-app
