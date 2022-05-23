@@ -1,4 +1,4 @@
-# recipe
+# Vue recipeapp with vue router,Vuex,Composition and Options API and mocha unit testing
 
 ## Project setup
 ```
